@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "img": "./service/team1.jpg",
+        "name": "Anita Mayer",
+        "employment": "Doctor",
+        "description": "Doctor",
+        "rating": 4
+    },
+    {
+        "id": 2,
+        "img": "./service/team2.jpg",
+        "name": "Brick Wall",
+        "employment": "Doctor",
+        "description": "Doctor",
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "img": "./service/team3.jpg",
+        "name": "Julia Albert",
+        "employment": "Doctor",
+        "description": "Doctor",
+        "rating": 4
+    },
+    {
+        "id": 1,
+        "img": "./service/team4.jpg",
+        "name": "Joe Smith",
+        "employment": "Doctor",
+        "description": "Doctor",
+        "rating": 4
+    }
+]

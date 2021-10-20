@@ -1,0 +1,97 @@
+
+
+.banner-image{
+    background: url(../../../images/slider-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 550px;
+    margin-top: 0px;
+
+
+}
+.bg-blue{
+    background-color: #2E3E87;
+}
+.banner-text h1 {
+    font-size: 65px;
+    padding-top: 100px;
+}
+.expriance-image{
+    background-image: url(../../../images/Circle/dotet-removebg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+
+.expriance-image img {
+    width: 151px;
+    height: 151px;
+    border-radius: 100%;
+    margin-top: 100px;
+    margin-left: 63px;
+    background-color: white;
+    box-shadow: 10px 10px 10px 10px rgb(215 207 207);
+}
+.Experience {
+    padding-left: 56px;
+    padding-top: 35px;
+}
+.Experience h1 {
+    font-size: 55px;
+    font-weight: 700;
+    color: #203474;
+}
+.Experience h5 {
+    font-size: 21px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.Experience-text p {
+    padding-top: 56px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #203474;
+    margin-left: 112px;
+    float: left;
+    justify-content: end;
+}
+
+/* service-section style  */
+
+.service-section{
+    background-image: url(../../../images/symptom-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1180px;
+}
+.service-text h1{
+    font-size: 55px;
+    font-weight: 700;
+    color: #203474;
+    transition: .9s;
+
+}
+.service-text h1:hover{
+    text-decoration: underline;
+    text-decoration-color: #FE0000;
+    border-bottom: 2px ;
+}
+
+/* why-section-style */
+.why-section{
+    background-color: #EDEFF6;
+}
+.why-section-text{
+    font-size: 55px;
+    font-weight: 700;
+    color: #203474;
+    transition: .9s;
+}
+
+.why-text{
+    color: #203474;
+    float: left;  
+}

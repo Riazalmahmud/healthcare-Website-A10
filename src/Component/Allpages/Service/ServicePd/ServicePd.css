@@ -1,0 +1,11 @@
+
+.service-card img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    margin: 0px auto;
+    margin-top: 50px;
+}
+button.w-50.mb-5.btn.btn-success {
+    margin: 0px auto;
+}

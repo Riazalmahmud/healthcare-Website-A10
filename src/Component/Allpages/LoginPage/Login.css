@@ -1,0 +1,12 @@
+
+
+.login-page button{
+background-color: #1B2F70;
+}
+
+.extra-login li {
+    display: inline-block;
+    list-style: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}

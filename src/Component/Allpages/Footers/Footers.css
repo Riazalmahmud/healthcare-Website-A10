@@ -1,0 +1,27 @@
+
+
+.footer-section{
+    background-image: url(../../../images/footer-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 380px;
+}
+.footer-nav a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 17px;
+}
+.footer-text h1{
+    text-decoration: underline;
+    text-decoration-color: #BF0000;
+    border-bottom: 3px #BF0000;
+    margin-top: 20px;
+    
+}
+.footer-button button{
+    background-color: tomato;
+}
